@@ -1,0 +1,8 @@
+.half-width {
+    display: flex;
+}
+
+.half-width img {
+    width: 50%;
+    margin-left: 350px;
+}
