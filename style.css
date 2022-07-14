@@ -142,9 +142,10 @@ body {
 
 .conut-1 {
     display: flex;
-    box-shadow: 3px 10px 20px grey;
+    box-shadow: 3px 4px 14px grey;
     margin-left: 90px;
     border-radius: 12px;
+    padding-bottom: 20px;
 }
 
 .common-count {
@@ -153,6 +154,33 @@ body {
     padding-top: 20px;
 }
 
+.common-count-h1 {
+    font-size: 35px;
+}
+
 .common-count-p {
     color: #828282;
+}
+
+/* fotter */
+.footer-section {
+    margin-top: 100px;
+    background-color: black;
+    height: 250px;
+}
+
+.span-eat {
+    color: orangered;
+    margin: 0px 10px;
+}
+
+.footer-1 {
+    padding-top: 40px;
+    text-align: center;
+    color: #5d5d5d;
+}
+
+.footer-p {
+    margin-top: 30px;
+    color: #dadbdc;
 }
