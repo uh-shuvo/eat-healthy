@@ -1,7 +1,9 @@
 body {
     font-family: 'Lobster', cursive;
+    margin: 0px;
 }
 
+/* diet sec */
 .half-width {
     display: flex;
 }
@@ -50,4 +52,35 @@ body {
 
 .img-div {
     margin-right: 50px;
+}
+
+/* about sec */
+.about-section {
+    margin-top: 80px;
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.half-width-3 {
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.half-width-3 img {
+    width: 50%;
+    margin-left: 150px;
+}
+
+.lorem {
+    margin-top: 70px;
+    margin-right: 150px;
+}
+
+.about-h1 {
+    margin-bottom: -20px;
+    color: #575757;
+    font-size: 30px;
 }
