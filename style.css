@@ -84,3 +84,49 @@ body {
     color: #575757;
     font-size: 30px;
 }
+
+/* recipies sec */
+.recipies {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.recipie-2 {
+    display: flex;
+
+}
+
+.recipie-h1 {
+    color: #575757;
+}
+
+.recipie-p {
+    color: #828282;
+}
+
+.recipie-3 {
+    width: 40%;
+    margin-left: 82px;
+    margin-right: -34px;
+    box-shadow: 4px 4px 15px grey;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.recipie-3 img {
+    margin-top: 20px;
+    width: 90%;
+    height: 301px;
+}
+
+.title-h2 {
+    text-align: left;
+    margin-left: 30px;
+    color: #575757;
+}
+
+.title-p {
+    text-align: left;
+    margin-left: 30px;
+    color: #828282;
+}
