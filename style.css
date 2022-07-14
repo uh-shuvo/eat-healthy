@@ -86,6 +86,10 @@ body {
 }
 
 /* recipies sec */
+.recipie-section {
+    margin-bottom: 80px;
+}
+
 .recipies {
     text-align: center;
     margin-bottom: 30px;
@@ -122,11 +126,33 @@ body {
 .title-h2 {
     text-align: left;
     margin-left: 30px;
-    color: #575757;
 }
 
 .title-p {
     text-align: left;
     margin-left: 30px;
+    color: #828282;
+}
+
+/* count-section */
+.count-section {
+    margin-right: 118px;
+    margin-top: 50px;
+}
+
+.conut-1 {
+    display: flex;
+    box-shadow: 3px 10px 20px grey;
+    margin-left: 90px;
+    border-radius: 12px;
+}
+
+.common-count {
+    margin-left: 150px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.common-count-p {
     color: #828282;
 }
